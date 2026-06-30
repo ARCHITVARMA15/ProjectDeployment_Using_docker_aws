@@ -16,6 +16,18 @@ A real-time collaborative code editor where multiple users can write and edit co
 
 ---
 
+## Screenshots
+
+**User 1's view** — two collaborators connected, shared code visible:
+
+![Collaborative editor - user 1 view](assets/WhatsApp%20Image%202026-06-30%20at%2021.31.48.jpeg)
+
+**User 2's view** — same session, synced in real time:
+
+![Collaborative editor - user 2 view](assets/WhatsApp%20Image%202026-06-30%20at%2021.32.02.jpeg)
+
+---
+
 ## Tech Stack
 
 ### Frontend
