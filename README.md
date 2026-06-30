@@ -4,6 +4,8 @@ A real-time collaborative code editor where multiple users can write and edit co
 
 **Live Demo:** [docker-aws-yt-ALB-29765385.ap-northeast-1.elb.amazonaws.com](http://docker-aws-yt-ALB-29765385.ap-northeast-1.elb.amazonaws.com)
 
+Note: The live demo may be taken down to avoid AWS charges
+
 ---
 
 ## Features
